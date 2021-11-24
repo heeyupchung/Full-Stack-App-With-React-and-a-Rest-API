@@ -1,2 +1,1 @@
-# Full Stack App With React and a Rest API
- 
+# Full Stack App with React and a REST API
